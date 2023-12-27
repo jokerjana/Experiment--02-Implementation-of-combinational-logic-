@@ -86,7 +86,7 @@ endmodule
 ![image](https://github.com/jokerjana/Experiment--02-Implementation-of-combinational-logic-/assets/147173630/c874d3de-7665-4b89-b8f3-d9ada23607b2)
 
 ## Truth table :-
-![image](https://github.com/Raji1009/Experiment--02-Implementation-of-combinational-logic-/assets/89059861/b569bbc1-d572-4fc8-81e3-8470c5f7be88)
+![image](https://github.com/jokerjana/Experiment--02-Implementation-of-combinational-logic-/assets/147173630/3254982b-6bd4-4bee-8cbe-0e0f045df107)
 
 ## Timing Diagram :-
 ![image](https://github.com/Raji1009/Experiment--02-Implementation-of-combinational-logic-/assets/89059861/14a6b9c3-6847-41a5-8b04-837bd18bc4c2)
