@@ -83,7 +83,7 @@ endmodule
 ```
 
 ## RTL realization :-
-![image](https://github.com/Raji1009/Experiment--02-Implementation-of-combinational-logic-/assets/89059861/f641d595-a84e-4d80-9082-a721e724ee09)
+![image](https://github.com/jokerjana/Experiment--02-Implementation-of-combinational-logic-/assets/147173630/c874d3de-7665-4b89-b8f3-d9ada23607b2)
 
 ## Truth table :-
 ![image](https://github.com/Raji1009/Experiment--02-Implementation-of-combinational-logic-/assets/89059861/b569bbc1-d572-4fc8-81e3-8470c5f7be88)
